@@ -1,0 +1,9 @@
+javascript:(function() {
+    var targetUrl = "http://www.blablabla.com/search=";
+    new Promise (
+        (setQuery) => {var input = window.prompt("ENTER YOUR QUERY:"); if (input) setQuery(input);}
+    )
+    .then (
+        (query) => window.open(targetUrl + query)
+    );
+})();
