@@ -15,3 +15,6 @@ https://mckelanor.daodash.xyz/meow.html
 https://www.qook.github.io/
 
 https://cloud.google.com/free
+
+https://mckelanor.daodash.xyz/sites.html
+
